@@ -1,6 +1,4 @@
-//Name: Sanjana Ghosh
-//Assignment: 5
-//WSU ID: M858A788
+
 //Program that uses stack to recognize palindromes
 
 #include <iostream>
